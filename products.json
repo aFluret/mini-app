@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Арбуз",
+    "price": 300,
+    "brand": "VapeMaster",
+    "volume": "30 мл"
+  },
+  {
+    "id": 2,
+    "name": "Ледяной лимон",
+    "price": 350,
+    "brand": "CoolClouds",
+    "volume": "30 мл"
+  }
+]
