@@ -11,6 +11,7 @@ function renderProducts(products) {
         const div = document.createElement('div');
         div.innerHTML = `
             <strong>${p.name}</strong> (${p.volume}) — ${p.price} ₽<br/>
+            <img src=${p.image}>
             <button onclick="addToCart(${p.id}, '${p.name}', ${p.price})">Добавить</button>
         `;
         container.appendChild(div);

@@ -1,16 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Арбуз",
+    "name": "Клубнично-арбузная хуба-буба",
     "price": 300,
-    "brand": "VapeMaster",
-    "volume": "30 мл"
+    "brand": "CATSWILL",
+    "volume": "30 мл",
+    "image": "https://driptip.su/wa-data/public/shop/products/65/48/34865/images/39872/Klubnichno_arbuznaya_Khubba-bubba.970.jpg"
   },
   {
     "id": 2,
-    "name": "Ледяной лимон",
+    "name": "Кислый лимонад из арбуза,лайма и малины",
     "price": 350,
-    "brand": "CoolClouds",
-    "volume": "30 мл"
+    "brand": "CATSWILL",
+    "volume": "30 мл",
+    "image": "https://just-smoke-shop.ru/wp-content/uploads/2024/10/ec3ebf67-8eae-4c4a-ba5e-10d9e1067488_8d498483-f0d2-49c1-ba15-ccb9f43fc839.jpg"
   }
 ]
